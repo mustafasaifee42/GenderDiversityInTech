@@ -1,0 +1,835 @@
+{
+    "Lever": {
+      "Leadership": {
+        "Male": 47.0,
+        "Female": 53.0,
+        "citation": "https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee"
+      },
+      "Overall": {
+        "Male": 41.0,
+        "Female": 59.0,
+        "citation": "https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee"
+      },
+      "Tech": {
+        "Male": 57.0,
+        "Female": 43.0,
+        "citation": "https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee"
+      }
+    },
+    "CloverHealth": {
+      "Leadership": {
+        "Male": 58.0,
+        "Female": 42.0,
+        "citation": "https://technology.cloverhealth.com/clover-healths-first-diversity-data-report-942f82648993"
+      },
+      "Overall": {
+        "Male": 44.0,
+        "Female": 56.0,
+        "citation": "https://technology.cloverhealth.com/clover-healths-first-diversity-data-report-942f82648993"
+      },
+      "Tech": {
+        "Male": 62.0,
+        "Female": 38.0,
+        "citation": "https://technology.cloverhealth.com/clover-healths-first-diversity-data-report-942f82648993"
+      }
+    },
+    "Indiegogo": {
+      "Leadership": {
+        "Male": 53.0,
+        "Female": 47.0,
+        "citation": "https://go.indiegogo.com/blog/2018/03/diversity-matters-future-female.html"
+      },
+      "Overall": {
+        "Male": 45.0,
+        "Female": 55.0,
+        "citation": "https://go.indiegogo.com/blog/2018/03/diversity-matters-future-female.html"
+      },
+      "Tech": {
+        "Male": 69.0,
+        "Female": 31.0,
+        "citation": "https://go.indiegogo.com/blog/2018/03/diversity-matters-future-female.html"
+      }
+    },
+    "Etsy": {
+      "Leadership": {
+        "Male": 50.0,
+        "Female": 50.0,
+        "citation": "https://blog.etsy.com/news/2016/diversity-and-equality-at-etsy/"
+      },
+      "Overall": {
+        "Male": 47.0,
+        "Female": 53.0,
+        "citation": "https://blog.etsy.com/news/2016/diversity-and-equality-at-etsy/"
+      },
+      "Tech": {
+        "Male": 68.4,
+        "Female": 31.6,
+        "citation": "https://blog.etsy.com/news/2016/diversity-and-equality-at-etsy/"
+      }
+    },
+    "Kickstarter": {
+      "Leadership": {
+        "Male": 39.0,
+        "Female": 61.0,
+        "citation": "https://www.kickstarter.com/year/2016/benefit-statement"
+      },
+      "Overall": {
+        "Male": 47.0,
+        "Female": 53.0,
+        "citation": "https://www.kickstarter.com/year/2016/benefit-statement"
+      },
+      "Tech": {
+        "Male": "NA",
+        "Female": "NA",
+        "citation": "NA"
+      }
+    },
+    "ClearCompany": {
+      "Leadership": {
+        "Male": 50.0,
+        "Female": 50.0,
+        "citation": ""
+      },
+      "Overall": {
+        "Male": 48.5,
+        "Female": 51.5,
+        "citation": ""
+      },
+      "Tech": {
+        "Male": 62.5,
+        "Female": 37.5,
+        "citation": ""
+      }
+    },
+    "Gusto": {
+      "Leadership": {
+        "Male": 57.0,
+        "Female": 43.0,
+        "citation": "https://framework.gusto.com/wp-content/uploads/2016/11/Diversity_and_Inclusion_with_Gusto.pdf"
+      },
+      "Overall": {
+        "Male": 49.0,
+        "Female": 51.0,
+        "citation": "https://www.forbes.com/sites/susanadams/2018/02/13/how-tech-unicorn-gusto-hired-women-engineers/#35c87b516949"
+      },
+      "Tech": {
+        "Male": 76.0,
+        "Female": 24.0,
+        "citation": "https://framework.gusto.com/wp-content/uploads/2016/11/Diversity_and_Inclusion_with_Gusto.pdf"
+      }
+    },
+    "23andme": {
+      "Leadership": {
+        "Male": 53.0,
+        "Female": 47.0,
+        "citation": "https://mediacenter.23andme.com/company/diversity-snapshot/"
+      },
+      "Overall": {
+        "Male": 49.8,
+        "Female": 50.2,
+        "citation": "https://www.documentcloud.org/documents/4107286-23andMe-2016.html"
+      },
+      "Tech": {
+        "Male": 61.3,
+        "Female": 38.7,
+        "citation": "https://www.documentcloud.org/documents/4107286-23andMe-2016.html"
+      }
+    },
+    "Expedia": {
+      "Leadership": {
+        "Male": 65.0,
+        "Female": 35.0,
+        "citation": "http://www.expediainc.com/gender-balance/"
+      },
+      "Overall": {
+        "Male": 51.0,
+        "Female": 49.0,
+        "citation": "https://www.expediagroup.com/gender-balance/"
+      },
+      "Tech": {
+        "Male": 75.0,
+        "Female": 25.0,
+        "citation": "https://www.expediainc.com/gender-balance/"
+      }
+    },
+    "Pandora": {
+      "Leadership": {
+        "Male": 62.0,
+        "Female": 38.0,
+        "citation": "https://www.pandora.com/careers/#diversity"
+      },
+      "Overall": {
+        "Male": 51.0,
+        "Female": 49.0,
+        "citation": "https://www.pandora.com/careers/#diversity"
+      },
+      "Tech": {
+        "Male": 76.0,
+        "Female": 24.0,
+        "citation": "https://www.pandora.com/careers/#diversity"
+      }
+    },
+    "Yelp": {
+      "Leadership": {
+        "Male": 54.0,
+        "Female": 46.0,
+        "citation": "https://www.yelpblog.com/2017/10/importance-of-employee-engagement"
+      },
+      "Overall": {
+        "Male": 54.0,
+        "Female": 46.0,
+        "citation": "https://www.yelpblog.com/2017/10/importance-of-employee-engagement"
+      },
+      "Tech": {
+        "Male": 83.0,
+        "Female": 17.0,
+        "citation": "https://www.yelpblog.com/2017/10/importance-of-employee-engagement"
+      }
+    },
+    "Pinterest": {
+      "Leadership": {
+        "Male": 83.0,
+        "Female": 17.0,
+        "citation": "https://blog.pinterest.com/en/2016-update-diversity-pinterest"
+      },
+      "Overall": {
+        "Male": 55.0,
+        "Female": 45.0,
+        "citation": "https://blog.pinterest.com/en/2016-update-diversity-pinterest"
+      },
+      "Tech": {
+        "Male": 74.0,
+        "Female": 26.0,
+        "citation": "https://blog.pinterest.com/en/2016-update-diversity-pinterest"
+      }
+    },
+    "Slack": {
+      "Leadership": {
+        "Male": 51.9,
+        "Female": 48.1,
+        "citation": "https://slackhq.com/diversity-at-slack-d44aba51d4b6"
+      },
+      "Overall": {
+        "Male": 55.3,
+        "Female": 44.7,
+        "citation": "https://slackhq.com/diversity-at-slack-8dea4aaff7f1"
+      },
+      "Tech": {
+        "Male": 65.7,
+        "Female": 34.3,
+        "citation": "https://slackhq.com/diversity-at-slack-8dea4aaff7f1"
+      }
+    },
+    "UserTesting": {
+      "Leadership": {
+        "Male": 98.0,
+        "Female": 2.0,
+        "citation": ""
+      },
+      "Overall": {
+        "Male": 56.0,
+        "Female": 44.0,
+        "citation": ""
+      },
+      "Tech": {
+        "Male": 83.0,
+        "Female": 17.0,
+        "citation": ""
+      }
+    },
+    "SocialChorus": {
+      "Leadership": {
+        "Male": 97.0,
+        "Female": 3.0,
+        "citation": ""
+      },
+      "Overall": {
+        "Male": 56.5,
+        "Female": 43.5,
+        "citation": ""
+      },
+      "Tech": {
+        "Male": 93.0,
+        "Female": 7.0,
+        "citation": ""
+      }
+    },
+    "PayPal": {
+      "Leadership": {
+        "Male": 64.0,
+        "Female": 36.0,
+        "citation": "https://www.paypal.com/stories/us/our-commitment-to-diversity-and-inclusion-at-paypal"
+      },
+      "Overall": {
+        "Male": 57.0,
+        "Female": 43.0,
+        "citation": "https://www.paypal.com/stories/us/our-commitment-to-diversity-and-inclusion-at-paypal"
+      },
+      "Tech": {
+        "Male": 75.0,
+        "Female": 25.0,
+        "citation": "https://paypal.com/stories/us/our-commitment-to-diversity-and-inclusion-at-paypal"
+      }
+    },
+    "Airbnb": {
+      "Leadership": {
+        "Male": 70.03,
+        "Female": 29.97,
+        "citation": "https://www.airbnb.com/diversity/belonging"
+      },
+      "Overall": {
+        "Male": 57.0,
+        "Female": 43.0,
+        "citation": "https://www.airbnb.com/diversity/belonging"
+      },
+      "Tech": {
+        "Male": 74.37,
+        "Female": 25.63,
+        "citation": "https://www.airbnb.com/diversity/belonging"
+      }
+    },
+    "Crunchbase": {
+      "Leadership": {
+        "Male": 83.0,
+        "Female": 17.0,
+        "citation": ""
+      },
+      "Overall": {
+        "Male": 57.0,
+        "Female": 43.0,
+        "citation": ""
+      },
+      "Tech": {
+        "Male": 70.0,
+        "Female": 30.0,
+        "citation": ""
+      }
+    },
+    "LinkedIn": {
+      "Leadership": {
+        "Male": 65.0,
+        "Female": 35.0,
+        "citation": "https://careers.linkedin.com/diversity-and-inclusion?trk=li_corpblog_corp_linkedin_diversity_report_patwadors"
+      },
+      "Overall": {
+        "Male": 58.0,
+        "Female": 42.0,
+        "citation": "https://careers.linkedin.com/diversity-and-inclusion?trk=li_corpblog_corp_linkedin_diversity_report_patwadors"
+      },
+      "Tech": {
+        "Male": 80.0,
+        "Female": 20.0,
+        "citation": "https://careers.linkedin.com/diversity-and-inclusion?trk=li_corpblog_corp_linkedin_diversity_report_patwadors"
+      }
+    },
+    "HubSpot": {
+      "Leadership": {
+        "Male": 55.0,
+        "Female": 45.0,
+        "citation": "https://www.hubspot.com/jobs/diversity-inclusion"
+      },
+      "Overall": {
+        "Male": 59.0,
+        "Female": 41.0,
+        "citation": "https://www.hubspot.com/jobs/diversity-inclusion"
+      },
+      "Tech": {
+        "Male": 77.0,
+        "Female": 23.0,
+        "citation": "https://www.hubspot.com/jobs/diversity-inclusion"
+      }
+    },
+    "Intuit": {
+      "Leadership": {
+        "Male": 70.8,
+        "Female": 29.2,
+        "citation": "https://www.intuit.com/content/dam/intuit/intuitcom/documents/company/intuit-EEO-report-2016.pdf"
+      },
+      "Overall": {
+        "Male": 59.0,
+        "Female": 41.0,
+        "citation": "https://www.intuit.com/content/dam/intuit/intuitcom/documents/company/intuit-EEO-report-2016.pdf"
+      },
+      "Tech": {
+        "Male": 62.4,
+        "Female": 37.6,
+        "citation": "https://www.intuit.com/content/dam/intuit/intuitcom/documents/company/intuit-EEO-report-2016.pdf"
+      }
+    },
+    "Netflix": {
+      "Leadership": {
+        "Male": 58.0,
+        "Female": 42.0,
+        "citation": "https://jobs.netflix.com/diversity"
+      },
+      "Overall": {
+        "Male": 59.0,
+        "Female": 41.0,
+        "citation": "https://jobs.netflix.com/diversity"
+      },
+      "Tech": {
+        "Male": 73.0,
+        "Female": 27.0,
+        "citation": "https://jobs.netflix.com/diversity"
+      }
+    },
+    "Lyft": {
+      "Leadership": {
+        "Male": 67.2,
+        "Female": 32.8,
+        "citation": "https://take.lyft.com/diversity/"
+      },
+      "Overall": {
+        "Male": 60.0,
+        "Female": 40.0,
+        "citation": "https://take.lyft.com/diversity/"
+      },
+      "Tech": {
+        "Male": 79.0,
+        "Female": 21.0,
+        "citation": "https://take.lyft.com/diversity/"
+      }
+    },
+    "Zendesk": {
+      "Leadership": {
+        "Male": 80.0,
+        "Female": 20.0,
+        "citation": "http://reviews.greatplacetowork.com/zendesk-inc"
+      },
+      "Overall": {
+        "Male": 61.0,
+        "Female": 39.0,
+        "citation": "http://reviews.greatplacetowork.com/zendesk-inc"
+      },
+      "Tech": {
+        "Male": 80.0,
+        "Female": 20.0,
+        "citation": "https://medium.com/zendesk-engineering/improving-gender-diversity-in-engineering-c352409918e4"
+      }
+    },
+    "Amazon": {
+      "Leadership": {
+        "Male": 74.0,
+        "Female": 26.0,
+        "citation": "https://www.amazon.com/b/ref=tb_surl_diversity/?tag=skim0x70967-20&node=10080092011"
+      },
+      "Overall": {
+        "Male": 61.0,
+        "Female": 39.0,
+        "citation": "https://images-na.ssl-images-amazon.com/images/G/01/DiversityCampaign2016_Q3/EEO-1_2016_consolidated._V525968886_.pdf"
+      },
+      "Tech": {
+        "Male": 73.0,
+        "Female": 27.0,
+        "citation": "https://images-na.ssl-images-amazon.com/images/G/01/DiversityCampaign2016_Q3/EEO-1_2016_consolidated._V525968886_.pdf"
+      }
+    },
+    "Drift": {
+      "Leadership": {
+        "Male": 82.0,
+        "Female": 18.0,
+        "citation": "https://www.slideshare.net/DrifttHQ/drift-diversity-report"
+      },
+      "Overall": {
+        "Male": 62.0,
+        "Female": 38.0,
+        "citation": "https://www.slideshare.net/DrifttHQ/drift-diversity-report"
+      },
+      "Tech": {
+        "Male": 83.4,
+        "Female": 16.6,
+        "citation": "https://www.slideshare.net/DrifttHQ/drift-diversity-report"
+      }
+    },
+    "Clever": {
+      "Leadership": {
+        "Male": 62.0,
+        "Female": 38.0,
+        "citation": "https://docs.google.com/spreadsheets/d/1rzwyJnO0AwdPjsvYmqAJYkk3BMjMAh4rKPEef5n4Rkc/pubhtml#"
+      },
+      "Overall": {
+        "Male": 62.0,
+        "Female": 38.0,
+        "citation": "https://docs.google.com/spreadsheets/d/1rzwyJnO0AwdPjsvYmqAJYkk3BMjMAh4rKPEef5n4Rkc/pubhtml#"
+      },
+      "Tech": {
+        "Male": 71.0,
+        "Female": 29.0,
+        "citation": "https://blog.clever.com/2018/02/diversity-inclusion-report-2017/k"
+      }
+    },
+    "Twitter": {
+      "Leadership": {
+        "Male": 67.5,
+        "Female": 32.5,
+        "citation": "https://blog.twitter.com/official/en_us/topics/company/2018/growingtogetherattwitter.html"
+      },
+      "Overall": {
+        "Male": 63.0,
+        "Female": 37.0,
+        "citation": "https://https://blog.twitter.com/official/en_us/topics/company/2018/growingtogetherattwitter.html"
+      },
+      "Tech": {
+        "Male": 82.7,
+        "Female": 17.3,
+        "citation": "https://https://blog.twitter.com/official/en_us/topics/company/2018/growingtogetherattwitter.html"
+      }
+    },
+    "Yahoo": {
+      "Leadership": {
+        "Male": 78.0,
+        "Female": 22.0,
+        "citation": "https://yahoo.tumblr.com/post/152561899994/yahoos-2016-diversity-report"
+      },
+      "Overall": {
+        "Male": 63.0,
+        "Female": 37.0,
+        "citation": "https://yahoo.tumblr.com/post/152561899994/yahoos-2016-diversity-report"
+      },
+      "Tech": {
+        "Male": 83.0,
+        "Female": 17.0,
+        "citation": "https://yahoo.tumblr.com/post/152561899994/yahoos-2016-diversity-report"
+      }
+    },
+    "Github": {
+      "Leadership": {
+        "Male": 66.0,
+        "Female": 34.0,
+        "citation": "https://diversity.github.com/"
+      },
+      "Overall": {
+        "Male": 63.0,
+        "Female": 37.0,
+        "citation": "https://diversity.github.com/"
+      },
+      "Tech": {
+        "Male": 78.0,
+        "Female": 22.0,
+        "citation": "https://diversity.github.com/"
+      }
+    },
+    "Square": {
+      "Leadership": {
+        "Male": 74.8,
+        "Female": 25.2,
+        "citation": "https://squareup.com/news/diversity-report"
+      },
+      "Overall": {
+        "Male": 63.3,
+        "Female": 36.7,
+        "citation": "https://squareup.com/news/diversity-report"
+      },
+      "Tech": {
+        "Male": 81.2,
+        "Female": 18.8,
+        "citation": "https://squareup.com/news/diversity-report"
+      }
+    },
+    "Uber": {
+      "Leadership": {
+        "Male": 78.0,
+        "Female": 22.0,
+        "citation": "https://www.uber.com/diversity/"
+      },
+      "Overall": {
+        "Male": 63.9,
+        "Female": 36.1,
+        "citation": "https://www.uber.com/diversity/"
+      },
+      "Tech": {
+        "Male": 84.6,
+        "Female": 15.4,
+        "citation": "https://www.uber.com/diversity/"
+      }
+    },
+    "Ebay": {
+      "Leadership": {
+        "Male": 72.0,
+        "Female": 28.0,
+        "citation": "https://techcrunch.com/2014/07/31/ebay-reports-more-diverse-staff-than-other-tech-companies/"
+      },
+      "Overall": {
+        "Male": 64.0,
+        "Female": 36.0,
+        "citation": "https://techcrunch.com/2014/07/31/ebay-reports-more-diverse-staff-than-other-tech-companies/"
+      },
+      "Tech": {
+        "Male": 71.0,
+        "Female": 29.0,
+        "citation": "https://techcrunch.com/2014/07/31/ebay-reports-more-diverse-staff-than-other-tech-companies/"
+      }
+    },
+    "Evernote": {
+      "Leadership": {
+        "Male": 70.0,
+        "Female": 30.0,
+        "citation": ""
+      },
+      "Overall": {
+        "Male": 65.0,
+        "Female": 35.0,
+        "citation": ""
+      },
+      "Tech": {
+        "Male": 78.0,
+        "Female": 22.0,
+        "citation": ""
+      }
+    },
+    "Quora": {
+      "Leadership": {
+        "Male": 50.0,
+        "Female": 50.0,
+        "citation": "http://reviews.greatplacetowork.com/quora-inc"
+      },
+      "Overall": {
+        "Male": 65.0,
+        "Female": 35.0,
+        "citation": "http://reviews.greatplacetowork.com/quora-inc"
+      },
+      "Tech": {
+        "Male": "NA",
+        "Female": "NA",
+        "citation": "NA"
+      }
+    },
+    "Dropbox": {
+      "Leadership": {
+        "Male": 69.0,
+        "Female": 31.0,
+        "citation": "https://blogs.dropbox.com/dropbox/2016/01/future-of-diversity-at-dropbox/"
+      },
+      "Overall": {
+        "Male": 65.0,
+        "Female": 35.0,
+        "citation": "https://blogs.dropbox.com/dropbox/2016/01/future-of-diversity-at-dropbox/"
+      },
+      "Tech": {
+        "Male": 81.0,
+        "Female": 19.0,
+        "citation": "https://blogs.dropbox.com/dropbox/2016/01/future-of-diversity-at-dropbox/"
+      }
+    },
+    "Facebook": {
+      "Leadership": {
+        "Male": 72.0,
+        "Female": 28.0,
+        "citation": "https://fbnewsroomus.files.wordpress.com/2017/08/fb_diversity_2017_final.pdf"
+      },
+      "Overall": {
+        "Male": 65.0,
+        "Female": 35.0,
+        "citation": "https://fbnewsroomus.files.wordpress.com/2017/08/fb_diversity_2017_final.pdf"
+      },
+      "Tech": {
+        "Male": 81.0,
+        "Female": 19.0,
+        "citation": "https://fbnewsroomus.files.wordpress.com/2017/08/fb_diversity_2017_final.pdf"
+      }
+    },
+    "Weebly": {
+      "Leadership": {
+        "Male": 50.0,
+        "Female": 50.0,
+        "citation": "http://www.businessinsider.com/weebly-reveals-how-diversity-is-key-to-its-success-2018-3"
+      },
+      "Overall": {
+        "Male": 65.4,
+        "Female": 34.6,
+        "citation": ""
+      },
+      "Tech": {
+        "Male": 84.4,
+        "Female": 15.6,
+        "citation": ""
+      }
+    },
+    "Atlassian": {
+      "Leadership": {
+        "Male": 73.2,
+        "Female": 26.8,
+        "citation": "https://www.atlassian.com/diversity?tab=gender"
+      },
+      "Overall": {
+        "Male": 66.0,
+        "Female": 34.0,
+        "citation": "https://www.atlassian.com/diversity?tab=gender"
+      },
+      "Tech": {
+        "Male": 85.4,
+        "Female": 14.6,
+        "citation": "https://www.atlassian.com/diversity?tab=gender"
+      }
+    },
+    "Customer.io": {
+      "Leadership": {
+        "Male": 62.0,
+        "Female": 38.0,
+        "citation": ""
+      },
+      "Overall": {
+        "Male": 68.0,
+        "Female": 32.0,
+        "citation": ""
+      },
+      "Tech": {
+        "Male": 79.0,
+        "Female": 21.0,
+        "citation": ""
+      }
+    },
+    "BuzzfeedTech": {
+      "Leadership": {
+        "Male": 68.0,
+        "Female": 32.0,
+        "citation": "https://tech.buzzfeed.com/buzzfeed-techs-2018-diversity-update-f269ef4c8a4f"
+      },
+      "Overall": {
+        "Male": 68.0,
+        "Female": 32.0,
+        "citation": "https://tech.buzzfeed.com/buzzfeed-techs-2018-diversity-update-f269ef4c8a4f"
+      },
+      "Tech": {
+        "Male": 68.0,
+        "Female": 32.0,
+        "citation": "https://tech.buzzfeed.com/buzzfeed-techs-2018-diversity-update-f269ef4c8a4f"
+      }
+    },
+    "Apple": {
+      "Leadership": {
+        "Male": 72.0,
+        "Female": 28.0,
+        "citation": "https://www.apple.com/diversity/"
+      },
+      "Overall": {
+        "Male": 68.0,
+        "Female": 32.0,
+        "citation": "https://www.apple.com/diversity/"
+      },
+      "Tech": {
+        "Male": 77.0,
+        "Female": 23.0,
+        "citation": "https://www.apple.com/diversity/"
+      }
+    },
+    "Google": {
+      "Leadership": {
+        "Male": 74.5,
+        "Female": 25.5,
+        "citation": "https://static.googleusercontent.com/media/diversity.google/en//static/pdf/Google_Diversity_annual_report_2018.pdf"
+      },
+      "Overall": {
+        "Male": 69.0,
+        "Female": 31.0,
+        "citation": "https://www.blog.google/topics/diversity/making-progress-diversity-and-inclusion/"
+      },
+      "Tech": {
+        "Male": 80.0,
+        "Female": 20.0,
+        "citation": "https://www.blog.google/topics/diversity/making-progress-diversity-and-inclusion/"
+      }
+    },
+    "Intel": {
+      "Leadership": {
+        "Male": 80.2,
+        "Female": 19.8,
+        "citation": "https://www.intel.com/content/www/us/en/diversity/diversity-at-intel.html"
+      },
+      "Overall": {
+        "Male": 74.0,
+        "Female": 26.0,
+        "citation": "https://www.intel.com/content/www/us/en/diversity/diversity-at-intel.html"
+      },
+      "Tech": {
+        "Male": 78.0,
+        "Female": 22.0,
+        "citation": "https://www.intel.com/content/www/us/en/diversity/diversity-at-intel.html"
+      }
+    },
+    "Microsoft": {
+      "Leadership": {
+        "Male": 82.1,
+        "Female": 17.9,
+        "citation": "https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#epgDivFocusArea"
+      },
+      "Overall": {
+        "Male": 74.2,
+        "Female": 25.8,
+        "citation": "https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#epgDivFocusArea"
+      },
+      "Tech": {
+        "Male": 82.5,
+        "Female": 17.5,
+        "citation": "https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#epgDivFocusArea"
+      }
+    },
+    "GoDaddy": {
+      "Leadership": {
+        "Male": 74.0,
+        "Female": 26.0,
+        "citation": "https://newsroom.godaddy.net/newsroom/news-releases/news-releases-details/2017/GoDaddy-Releases-Annual-Diversity-and-Salary-Data/default.aspx"
+      },
+      "Overall": {
+        "Male": 75.0,
+        "Female": 25.0,
+        "citation": "https://newsroom.godaddy.net/newsroom/news-releases/news-releases-details/2017/GoDaddy-Releases-Annual-Diversity-and-Salary-Data/default.aspx"
+      },
+      "Tech": {
+        "Male": 81.0,
+        "Female": 19.0,
+        "citation": "https://newsroom.godaddy.net/newsroom/news-releases/news-releases-details/2017/GoDaddy-Releases-Annual-Diversity-and-Salary-Data/default.aspx"
+      }
+    },
+    "VMware": {
+      "Leadership": {
+        "Male": 76.0,
+        "Female": 24.0,
+        "citation": "https://www.vmware.com/company/diversity.html"
+      },
+      "Overall": {
+        "Male": 76.0,
+        "Female": 24.0,
+        "citation": "https://www.vmware.com/company/diversity.html"
+      },
+      "Tech": {
+        "Male": 80.0,
+        "Female": 20.0,
+        "citation": "https://www.vmware.com/company/diversity.html"
+      }
+    },
+    "Pivotal": {
+      "Leadership": {
+        "Male": 78.0,
+        "Female": 22.0,
+        "citation": "https://content.pivotal.io/blog/diversity-and-inclusion-in-everyday-work"
+      },
+      "Overall": {
+        "Male": 77.0,
+        "Female": 23.0,
+        "citation": "https://content.pivotal.io/blog/diversity-and-inclusion-in-everyday-work"
+      },
+      "Tech": {
+        "Male": 78.0,
+        "Female": 22.0,
+        "citation": "https://content.pivotal.io/blog/diversity-and-inclusion-in-everyday-work"
+      }
+    },
+    "Salesforce": {
+      "Leadership": {
+        "Male": 81.0,
+        "Female": 19.0,
+        "citation": "https://techcrunch.com/2016/10/14/salesforces-shift-into-equality/"
+      },
+      "Tech": {
+        "Male": 77.0,
+        "Female": 23.0,
+        "citation": "https://techcrunch.com/2016/10/14/salesforces-shift-into-equality/"
+      },
+      "Overall": {
+        "Male": "NA",
+        "Female": "NA",
+        "citation": "NA"
+      }
+    }
+  }
